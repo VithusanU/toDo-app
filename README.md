@@ -31,10 +31,10 @@ For Future implementation:
 
 # Future Improvements 📅
 
-🔹 Convert to a React-based app for better state management
-🔹 Implement a backend API (Node.js & Express) for real-time data storage
-🔹 Integrate MongoDB to store tasks permanently
-🔹 Add user authentication so users can save tasks across devices
-🔹 Implement drag-and-drop sorting for better task organization
+- 🔹 Convert to a React-based app for better state management
+- 🔹 Implement a backend API (Node.js & Express) for real-time data storage
+- 🔹 Integrate MongoDB to store tasks permanently
+- 🔹 Add user authentication so users can save tasks across devices
+- 🔹 Implement drag-and-drop sorting for better task organization
 
 # Screenshots (if needed) 📸

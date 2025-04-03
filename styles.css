@@ -1,0 +1,60 @@
+/* 🌍 Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sky {
+    background-color:black;
+}
+
+  
+
+/* 📌 Transparent Blurred Navbar */
+.navbar {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 1000px;
+    background: rgba(255, 255, 255, 0.383); /* Transparent white */
+    backdrop-filter: blur(10px); /* Blur effect */
+    padding: 15px 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* 🔹 Navbar Title */
+.title {
+    color: white;
+    font-size: 54px;
+    font-weight: bold;
+    font-family: "Great Vibes", cursive;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+
+/* 🔹 Navbar List */
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 40px; /* Space between items */
+}
+
+/* 🔗 Navbar Links */
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #FFD700; /* Gold hover effect */
+}
