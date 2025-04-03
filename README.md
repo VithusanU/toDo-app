@@ -9,11 +9,11 @@ This project serces as a foundation for future enhancements, including **React i
 
 # Features 🚀
 
-✅ Add new tasks instantly
-✅ Mark tasks as completed
-✅ Delete tasks when no longer needed
-✅ Save tasks even after page refresh (via localStorage)
-✅ Fully responsive UI for desktop & mobile
+- ✅ Add new tasks instantly
+- ✅ Mark tasks as completed
+- ✅ Delete tasks when no longer needed
+- ✅ Save tasks even after page refresh (via localStorage)
+- ✅ Fully responsive UI for desktop & mobile
 
 # How to Run the Project 📌
 
